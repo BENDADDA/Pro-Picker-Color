@@ -1,0 +1,17 @@
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.PickerColor.resources
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Forms.csproj.GenerateResource.Cache
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\Color Piker WFA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\Color Piker WFA\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\Color Piker WFA\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\Color Piker WFA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\Color Piker WFA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\Color Piker WFA\WindowsFormsApplication1\obj\x86\Release\Forms.csprojResolveAssemblyReference.cache
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\Color Piker WFA\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.PickerColor.resources
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\Color Piker WFA\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hdmi\Documents\Visual Studio 2010\Projects\Color Piker WFA\WindowsFormsApplication1\obj\x86\Release\Forms.csproj.GenerateResource.Cache
